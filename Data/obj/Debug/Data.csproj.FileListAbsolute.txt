@@ -1,0 +1,10 @@
+c:\users\andre\source\repos\WebCadastro\Data\bin\Debug\Data.dll
+c:\users\andre\source\repos\WebCadastro\Data\bin\Debug\Data.pdb
+c:\users\andre\source\repos\WebCadastro\Data\bin\Debug\Model.dll
+c:\users\andre\source\repos\WebCadastro\Data\bin\Debug\Utils.dll
+c:\users\andre\source\repos\WebCadastro\Data\bin\Debug\Model.pdb
+c:\users\andre\source\repos\WebCadastro\Data\bin\Debug\Utils.pdb
+c:\users\andre\source\repos\WebCadastro\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\andre\source\repos\WebCadastro\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\WebCadastro\Data\obj\Debug\Data.dll
+c:\users\andre\source\repos\WebCadastro\Data\obj\Debug\Data.pdb

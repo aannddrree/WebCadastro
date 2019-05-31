@@ -1,0 +1,5 @@
+c:\users\andre\source\repos\WebCadastro\Model\bin\Debug\Model.dll
+c:\users\andre\source\repos\WebCadastro\Model\bin\Debug\Model.pdb
+c:\users\andre\source\repos\WebCadastro\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\WebCadastro\Model\obj\Debug\Model.dll
+c:\users\andre\source\repos\WebCadastro\Model\obj\Debug\Model.pdb

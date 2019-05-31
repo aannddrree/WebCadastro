@@ -1,0 +1,5 @@
+c:\users\andre\source\repos\WebCadastro\Utils\bin\Debug\Utils.dll
+c:\users\andre\source\repos\WebCadastro\Utils\bin\Debug\Utils.pdb
+c:\users\andre\source\repos\WebCadastro\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\WebCadastro\Utils\obj\Debug\Utils.dll
+c:\users\andre\source\repos\WebCadastro\Utils\obj\Debug\Utils.pdb

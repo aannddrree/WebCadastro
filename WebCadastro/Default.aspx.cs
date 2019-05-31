@@ -15,7 +15,9 @@ namespace WebCadastro
         protected void Page_Load(object sender, EventArgs e)
         {
             ReloadGrid();
-            LoadCboCidade();
+
+            if (!IsPostBack)
+                LoadCboCidade();
         }
 
         protected void Button1_Click(object sender, EventArgs e)
